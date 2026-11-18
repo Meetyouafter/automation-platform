@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+
+learning
+AGENTS.md
+README.md
